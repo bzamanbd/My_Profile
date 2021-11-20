@@ -2,7 +2,7 @@
 <p align="center">self-educated programmer and dedicated flutter app developer <br/>
   Full Stack Mobile App Developer using Dart, Flutter and Firebase</p>
 <br />
-<img align="right" alt="GIF" src="https://github.com/saiful86/saiful86/raw/main/code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90719674/142732132-b01c8f39-6265-4c0c-b0b8-9a2845030a01.gif" width="500" height="320" />
 
 - 🔭 I’m currently working at home.
 - 💻 I’m currently learning better things of Mobile App Development, Web scrapping, Big Data Analysis, Automations etc.
