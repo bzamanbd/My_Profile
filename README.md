@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Md. Bodiuzzaman Ripon
 self-educated programmer and dedicated flutter app developer
 
-------------------------------------------------------------------
 Full Stack Mobile App Developer using Dart, Flutter and Firebase.
 
 - 🔭 I’m currently working at home.
