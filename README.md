@@ -2,7 +2,7 @@
 self-educated programmer and dedicated flutter app developer
 
 
-Full Stack Mobile App Developer (using Dart, Flutter and Firebase).
+Full Stack Mobile App Developer using Dart, Flutter and Firebase.
 
 - 🔭 I’m currently working at home.
 - 💻 I’m currently learning better things of Mobile App Development, Web scrapping, Big Data Analysis, Automations etc.
