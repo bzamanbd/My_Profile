@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Md. Bodiuzzaman Ripon</h1>
+<h1 align="center"> Hi, I'm Ripon</h1>
 <p align="center">Flutter Full Stack Apps Developer<br/>
   self-educated programmer and dedicated flutter apps developer</p>
 <br />
