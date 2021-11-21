@@ -21,9 +21,9 @@ WhatsApp: +8801971556799</p>
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/>
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/>
 <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="22" height="22"/>
 <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="iOS" width="22" height="22"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> 
 </p>
 
