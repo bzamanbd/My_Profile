@@ -1,6 +1,7 @@
 <h1 align="center"> Hi, I'm Ripon</h1>
 <p align="center">Flutter Full Stack Apps Developer<br/>
-  self-educated programmer and dedicated flutter apps developer</p>
+self-motivated & self-educated programmer<br/>
+fully dedicated flutter apps developer</p>
 <br />
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90719674/142732132-b01c8f39-6265-4c0c-b0b8-9a2845030a01.gif" width="500" height="320" />
 
