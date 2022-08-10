@@ -6,11 +6,11 @@ self-motivated & self-educated programmer</p>
 
 - 🔭 I’m currently working at https://icircles.app
 - 💻 Learning better things of Mobile Apps Development
-- 👯 want to collaborate on mobile & web Apps sector
+- 👯 want to collaborate on Mobile Apps Development Sector
 
 
-<p>Skype: riponnancybd<br/>
-WhatsApp: +8801971556799</p>
+<p>WhatsApp: +8801971556799<br/>
+Skype: riponnancybd</p>
 
 ![GitHub followers](https://img.shields.io/github/followers/bzamanbd?logo=GitHub&style=for-the-badge)
 <a href="https://www.linkedin.com/in/md-bodiuzzaman-ripon-57810542/">
