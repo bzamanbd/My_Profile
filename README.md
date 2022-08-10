@@ -4,7 +4,7 @@
 <br />
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90719674/142732132-b01c8f39-6265-4c0c-b0b8-9a2845030a01.gif" width="500" height="320" />
 
-- 🔭 I’m currently working at home
+- 🔭 I’m currently working at https://icircles.app
 - 💻 Learning better things of Mobile Apps Development
 - 👯 want to collaborate on mobile & web Apps sector
 
@@ -24,6 +24,7 @@ WhatsApp: +8801971556799</p>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/>
 <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="22" height="22"/>
 <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="iOS" width="22" height="22"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> 
 </p>
 
